@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZU7C/5KEAQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\APBD\\PJATK-APBD-Simple-RestAPI-main\\APBD-PJATK-Cw3-s32184\\ExampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Nieznany host. (api.nuget.org:443)",
+      "projectPath": "C:\\Users\\User\\Desktop\\APBD\\PJATK-APBD-Simple-RestAPI-main\\APBD-PJATK-Cw3-s32184\\ExampleApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\User\\Desktop\\APBD\\PJATK-APBD-Simple-RestAPI-main\\APBD-PJATK-Cw3-s32184\\ExampleApp.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
